@@ -1,7 +1,7 @@
 This is test!
 
-<<<<<<< .mineThis is a Test
+This is a Test
 
-=======This is a Test
+This is a Test
 
->>>>>>> .theirsThis is myLocal1 create!
+This is myLocal1 create!
